@@ -1,5 +1,4 @@
 /* stili header */
-
 #back{
     background-image: url(../img/pattern.png);
     height: 100px;
@@ -19,4 +18,13 @@ h1{
     }
 .grey{
     color: grey;
+}
+/* stili main */
+p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
 }
