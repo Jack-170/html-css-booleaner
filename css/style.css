@@ -28,3 +28,22 @@ table {
     border-collapse: collapse;
     width: 100%;
 }
+
+thead{
+    background-color:rgb(43, 175, 231);
+    color: white;
+    
+}
+#row{
+    background-color: rgb(127, 216, 254);
+}
+
+tfoot{
+    background-color:rgb(127, 216, 254); ;
+}
+td{
+    width: 40px;
+}
+.yellow{
+    background-color: yellow;
+}
