@@ -22,7 +22,11 @@ h1{
 
 
 /* stili main */
-
+.tim{
+    width: 48%;
+    height: 400px;
+    margin-top: 20spx;
+}
 
 p{
     font-size: 20px;
