@@ -1,0 +1,22 @@
+/* stili header */
+
+#back{
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color:rgba(52, 148, 251, 0.949)
+}
+#logo{
+    height: auto;
+    width: 150px;
+}
+
+h1{
+    font-size:45px;
+    margin-bottom: 10px;
+}
+#autore{
+    color: rgb(43, 175, 231);
+    }
+.grey{
+    color: grey;
+}
