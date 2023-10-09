@@ -1,7 +1,7 @@
 /* stili header */
 #back{
     background-image: url(../img/pattern.png);
-    height: 100px;
+    height: 150px;
     background-color:rgba(52, 148, 251, 0.949)
 }
 #logo{
@@ -19,7 +19,11 @@ h1{
 .grey{
     color: grey;
 }
+
+
 /* stili main */
+
+
 p{
     font-size: 20px;
     margin-bottom: 50px;
@@ -46,4 +50,18 @@ td{
 }
 .yellow{
     background-color: yellow;
+}
+
+
+/* stili footer */
+.container{
+    position: relative;
+    width: 100%;
+}
+.text{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
 }
